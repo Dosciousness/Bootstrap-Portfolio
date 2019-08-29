@@ -1,0 +1,108 @@
+*{
+    margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    background-color: #FFFFFF;
+    /* display: table; */
+    width: 100%;
+    clear: both;
+    color: white;
+    padding: 20px;
+    height: 24px;
+
+}
+.navtitle {
+    /* display: table; */
+    /* height: 10vh;  */
+    float: right;
+    margin-left: 20%;
+    margin-right: 20%
+}
+
+
+.about-me-header {
+    color: #4aaaa5;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.navlinks {
+    height: 10vh;
+    display: table;
+    margin-right: 12%;
+    float: right;
+}
+.navlink {
+    /* display: table-cell; */
+    /* vertical-align: middle; */
+    /* height: 10vh; */
+    padding-left: 5px;
+    padding-right: 5px; 
+}
+.title {
+    /* position: table; */
+    /* vertical-align: middle; */
+    background-color: #4aaaa5;
+    color: white;
+    position: absolute;
+    left: 10%;
+    top: 0;
+    padding: 20px;
+}
+
+.container {
+    margin: auto;
+    background-color: white;
+    /* position: absolute; */
+    width: 75%;
+    height: 50%;
+    /* top: 60%; */
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    padding: 25px;
+    margin-top: 25px; 
+}
+
+.spacer  {
+    width: 100%;
+    border-bottom: 3px solid #777777;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.containerText {
+    position: relative;
+    color: #777777;
+    display: inline-block; 
+}
+
+
+.profile-image {
+    background: url(https://c402277.ssl.cf1.rackcdn.com/photos/11552/images/hero_small/rsz_namibia_will_burrard_lucas_wwf_us_1.jpg?1462219623);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 25px;
+}
+footer {
+    height: 10vh;
+    background-color: #e67e22;
+}
+
+.main-container {
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/email-pattern.png");
+    height: 570px;
+
+}
+
+.footer {
+    border-top: 10px solid #4aaaa5;
+    background: #666666;
+    height: 75px;
+;}
+
+.text-input {
+    width: 100%;
+}
